@@ -1,8 +1,8 @@
 # Advanced Object Oriented Computing Project
 
-**Title:** Items Application Manager  
-**Name:** Sean Murphy  
-**Student ID:** G00123456  
+**Title:** Graphical User Interface application
+**Name:** Aoife Adair 
+**Student ID:** G00463278
 **Screencast Link:** [https://youtu.be/AbCdEf12345](https://youtu.be/AbCdEf12345)
 
 > 💻 **Open this project in GitHub Codespaces:** on the repository page, click the green **Code** button, choose the **Codespaces** tab, then **Create codespace on `main`**. A ready-to-code cloud environment (with Java and JavaFX) builds automatically from the `.devcontainer` folder — no local install needed.
